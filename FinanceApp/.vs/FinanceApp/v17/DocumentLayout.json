@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\MvcProject\\FinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CAB59F-1100-4262-B9C8-3802D48E2EF0}|FinanceApp\\FinanceApp.csproj|d:\\c#\\mvcproject\\financeapp\\financeapp\\data\\finantialappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CAB59F-1100-4262-B9C8-3802D48E2EF0}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\finantialappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CAB59F-1100-4262-B9C8-3802D48E2EF0}|FinanceApp\\FinanceApp.csproj|d:\\c#\\mvcproject\\financeapp\\financeapp\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CAB59F-1100-4262-B9C8-3802D48E2EF0}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinantialAppContext.cs",
+              "DocumentMoniker": "D:\\C#\\MvcProject\\FinanceApp\\FinanceApp\\Data\\FinantialAppContext.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\FinantialAppContext.cs",
+              "ToolTip": "D:\\C#\\MvcProject\\FinanceApp\\FinanceApp\\Data\\FinantialAppContext.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\FinantialAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:20:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseModel.cs",
+              "DocumentMoniker": "D:\\C#\\MvcProject\\FinanceApp\\FinanceApp\\Models\\ExpenseModel.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Models\\ExpenseModel.cs",
+              "ToolTip": "D:\\C#\\MvcProject\\FinanceApp\\FinanceApp\\Models\\ExpenseModel.cs",
+              "RelativeToolTip": "FinanceApp\\Models\\ExpenseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:47:48.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
