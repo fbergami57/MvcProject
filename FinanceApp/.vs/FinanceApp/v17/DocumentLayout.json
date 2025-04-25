@@ -38,8 +38,7 @@
               "RelativeToolTip": "FinanceApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:25:06.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:25:06.666Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "FinanceApp\\appsettings.json",
               "ToolTip": "D:\\C#\\MvcProject\\FinanceApp\\FinanceApp\\appsettings.json",
               "RelativeToolTip": "FinanceApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-25T11:23:08.357Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "FinanceApp\\Data\\FinanceAppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:20:47.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T11:20:47.162Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "FinanceApp\\Models\\ExpenseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:47:48.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T10:47:48.913Z"
             }
           ]
         }
